@@ -2,7 +2,7 @@
 Program slúži na sledovanie trajektórie 2dof robota pomocou inverznej kinematiky. Vykreslenie, simulácia trajektórie a porovnanie predpísanej a dosiahnutej trajektórie.
 
 ## Funkcie
-- Výpočet daného počtu bodov trajektórie kružnice/štvorca na základe polomeru/dĺžky strany kružnice
+- Výpočet daného počtu bodov trajektórie kružnice/štvorca na základe polomeru kružnice/dĺžky strany štvorca
 - Posunutie vypočítanej kružnice/štvorca pred robota v globálnej osi x
 - Vykreslenie predpísanej kružnice do simulácie pre interaktívne sledovanie predpísanej a dosiahnutej trajektórie
 - Po simulácii program vykreslí do matplotlib predpísanú a dosiahnutú trajektóriu
