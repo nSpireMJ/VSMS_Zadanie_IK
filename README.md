@@ -1,5 +1,5 @@
-# VSMS_Zadanie_IK
-Sledovanie trajektórie 2dof robota pomocou inverznej kinematiky. Vykreslenie, simulácia trajektórie a porovnanie predpísanej a dosiahnutej trajektórie.
+# Sledovanie trajektórie pomocou inverznej kinematiky
+Program slúži na sledovanie trajektórie 2dof robota pomocou inverznej kinematiky. Vykreslenie, simulácia trajektórie a porovnanie predpísanej a dosiahnutej trajektórie.
 
 ## Funkcie
 - Výpočet daného počtu bodov trajektórie kružnice/štvorca na základe polomeru/dĺžky strany kružnice
