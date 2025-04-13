@@ -77,7 +77,7 @@ def track_trajectory(x_traj, y_traj):
 
 # --- Hlavný program ---
 if __name__ == '__main__':
-    offset_x = 2.5  # môžeš si upraviť podľa potreby
+    offset_x = 2.5  # offset v x pre posun trajektórie
     # 1. KRUH
     # Kruh posunutý dopredu
     x_circle, y_circle = generate_circle_trajectory(radius=1.5)
