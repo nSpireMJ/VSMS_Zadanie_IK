@@ -1,2 +1,2 @@
 # VSMS_Zadanie_IK
-Sledovanie trajektorie 2dof robota pomocou inverznej kinematiky. Vykreslenie, simulacia trajektorie a porovnanie predpisanej a dosiahnutej trajektorie.
+Sledovanie trajektórie 2dof robota pomocou inverznej kinematiky. Vykreslenie, simulácia trajektórie a porovnanie predpísanej a dosiahnutej trajektórie.
